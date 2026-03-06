@@ -1,0 +1,7 @@
+{
+  "name": "Cabbix.com",
+  "description": "Cabbix.com - Unit of fastbookit.com. Premium cab booking platform serving Singhwara, Darbhanga, Bihar and beyond.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
